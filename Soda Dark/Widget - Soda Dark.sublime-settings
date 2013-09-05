@@ -1,4 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Soda/Soda Dark/Widget - Soda Dark.stTheme",
+	// "color_scheme": "Packages/Theme - Soda/Soda Dark/Widget - Soda Dark.stTheme",
+	"color_scheme": "Packages/RubyTest/TestConsole.hidden-tmTheme",
 	"draw_shadows": false
 }
